@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'bySimpson's kasm registry',
     description: 'Images based on official images with some additional tooling',
     icon: '/img/logo.svg',
-    listUrl: 'https://thmr.at/',
+    listUrl: 'https://bySimpson.github.io/kasm-registry/',
     contactUrl: 'https://thmr.at/gh',
   },
   reactStrictMode: true,
